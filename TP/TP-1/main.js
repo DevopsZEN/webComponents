@@ -1,3 +1,5 @@
+import {html, render} from "lit-html";
+
 class AppNavbar extends HTMLElement{
     constructor(){
         super();
